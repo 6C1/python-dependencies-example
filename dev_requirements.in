@@ -1,0 +1,3 @@
+-c requirements.txt
+black==19.10b0
+pytest~=6.1  # any version compatible with 6.1
